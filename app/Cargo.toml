@@ -1,6 +1,6 @@
 [package]
-name = "cli-guess"
-version = "0.1.0"
+name = "clasic-dungeon-game"
+version = "0.1.1"
 edition = "2021"
 authors = ["Anton <mrpotato.04.contact@gmail.com>"]
 
